@@ -1,7 +1,7 @@
 # Angel .NET MAUI Blazor Hybrid
 ## An app that runs on Windows, iOS, Android, iPhone simultaneously 
-
-Use Visual Studio to start `angel.sln`
+### .NET 7
+Use Visual Studio 2022 to start `angel.sln`
 
 The fresh version is always here: https://github.com/nakigoe/angel
 
