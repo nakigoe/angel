@@ -3,7 +3,10 @@
 ### .NET 7
 Use Visual Studio 2022 to start `angel.sln`
 
-The fresh version is always here: https://github.com/nakigoe/angel
+The fresh version of my code is always here: https://github.com/nakigoe/angel
+
+You can watch the Microsoft official video-lesson and code review at [Introduction to .NET MAUI](https://www.youtube.com/watch?v=FhBgj9yORy4&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R&index=64)
+The code review starts at 01:41:55 (that is, the last 20 minutes of the video)
 
 <br> Please write if You would like programming lessons: nakigoetenshi@gmail.com
 <br> $25 per hour lessons
