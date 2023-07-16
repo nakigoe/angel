@@ -1,5 +1,5 @@
 # Angel .NET MAUI Blazor Hybrid Template
-## An app that runs as a website, and on Windows, iOS, Android, iPhone simultaneously 
+## An app that runs as a website, and on Windows, macOS, iOS, Android, and Tizen(Samsung) simultaneously 
 ### .NET 7
 Use Visual Studio 2022 to start `angel.sln`
 
